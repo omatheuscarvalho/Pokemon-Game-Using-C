@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/tmp/build",
+  "command": "clang  -I/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/include -isystem /nix/store/wx014fbhv8ssxbn076skz4rwn55qcgpd-gdb-10.2/include -isystem /nix/store/kv7gdfwfv63vbih3q08ldvrclhhd6j20-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include-fixed -isystem /nix/store/iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev/include  -o CMakeFiles/main.dir/src/battle.c.o -c /home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/battle.c",
+  "file": "/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/battle.c"
+},
+{
+  "directory": "/tmp/build",
+  "command": "clang  -I/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/include -isystem /nix/store/wx014fbhv8ssxbn076skz4rwn55qcgpd-gdb-10.2/include -isystem /nix/store/kv7gdfwfv63vbih3q08ldvrclhhd6j20-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include-fixed -isystem /nix/store/iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev/include  -o CMakeFiles/main.dir/src/dex.c.o -c /home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/dex.c",
+  "file": "/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/dex.c"
+},
+{
+  "directory": "/tmp/build",
+  "command": "clang  -I/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/include -isystem /nix/store/wx014fbhv8ssxbn076skz4rwn55qcgpd-gdb-10.2/include -isystem /nix/store/kv7gdfwfv63vbih3q08ldvrclhhd6j20-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include-fixed -isystem /nix/store/iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev/include  -o CMakeFiles/main.dir/src/main.c.o -c /home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/main.c",
+  "file": "/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/main.c"
+},
+{
+  "directory": "/tmp/build",
+  "command": "clang  -I/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/include -isystem /nix/store/wx014fbhv8ssxbn076skz4rwn55qcgpd-gdb-10.2/include -isystem /nix/store/kv7gdfwfv63vbih3q08ldvrclhhd6j20-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include-fixed -isystem /nix/store/iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev/include  -o CMakeFiles/main.dir/src/map.c.o -c /home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/map.c",
+  "file": "/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/map.c"
+},
+{
+  "directory": "/tmp/build",
+  "command": "clang  -I/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/include -isystem /nix/store/wx014fbhv8ssxbn076skz4rwn55qcgpd-gdb-10.2/include -isystem /nix/store/kv7gdfwfv63vbih3q08ldvrclhhd6j20-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include-fixed -isystem /nix/store/iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev/include  -o CMakeFiles/main.dir/src/move.c.o -c /home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/move.c",
+  "file": "/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/move.c"
+},
+{
+  "directory": "/tmp/build",
+  "command": "clang  -I/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/include -isystem /nix/store/wx014fbhv8ssxbn076skz4rwn55qcgpd-gdb-10.2/include -isystem /nix/store/kv7gdfwfv63vbih3q08ldvrclhhd6j20-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include-fixed -isystem /nix/store/iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev/include  -o CMakeFiles/main.dir/src/player_info.c.o -c /home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/player_info.c",
+  "file": "/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/player_info.c"
+},
+{
+  "directory": "/tmp/build",
+  "command": "clang  -I/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/include -isystem /nix/store/wx014fbhv8ssxbn076skz4rwn55qcgpd-gdb-10.2/include -isystem /nix/store/kv7gdfwfv63vbih3q08ldvrclhhd6j20-compiler-rt-libc-12.0.1-dev/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/include -isystem /nix/store/dlni53myj53kx20pi4yhm7p68lw17b07-gcc-10.3.0/lib/gcc/x86_64-unknown-linux-gnu/10.3.0/include-fixed -isystem /nix/store/iwd8ic5hhwdxn5dga0im55g5hjl270cd-glibc-2.33-47-dev/include  -o CMakeFiles/main.dir/src/screen.c.o -c /home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/screen.c",
+  "file": "/home/runner/DCC120y-20223-MaheusTorres-ErikSouza/src/screen.c"
+}
+]
